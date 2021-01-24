@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Kehua's personal website"
     keywords = "homepage,developer,personal"
     info = "Wanna Be A Better Man"
-    avatarURL = "images/avatar.jpg"
+    avatarURL = "images/avatar1.jpg"
     #gravatar = "john.doe@example.com"
     footerContent = "Enter a text here."
 
