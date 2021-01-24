@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khchen-hp.github.io/series/hugo/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://khchen-hp.github.io/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,18 +18,13 @@
   </url>
   
   <url>
+    <loc>https://khchen-hp.github.io/series/hugo/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://khchen-hp.github.io/posts/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/posts/"
-                />
   </url>
   
   <url>
@@ -42,8 +32,8 @@
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/series/"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -72,8 +62,8 @@
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/authors/"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -87,8 +77,8 @@
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/categories/"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -115,16 +105,6 @@
   <url>
     <loc>https://khchen-hp.github.io/tags/hugo/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/tags/hugo/"
-                />
   </url>
   
   <url>
@@ -137,8 +117,8 @@
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/tags/"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -150,6 +130,26 @@
   <url>
     <loc>https://khchen-hp.github.io/tags/themes/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/categories/blog/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/posts/dummy/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/tags/i18n/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/authors/translation-test/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -214,30 +214,14 @@
   
   <url>
     <loc>https://khchen-hp.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/about/"
-                />
   </url>
   
   <url>
     <loc>https://khchen-hp.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/contact/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/contact/</loc>
   </url>
   
   <url>
@@ -246,16 +230,10 @@
   
   <url>
     <loc>https://khchen-hp.github.io/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://khchen-hp.github.io/pt-br/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/projects/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/projects/</loc>
   </url>
   
   <url>
@@ -264,6 +242,10 @@
   
   <url>
     <loc>https://khchen-hp.github.io/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/about/</loc>
   </url>
   
 </urlset>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kehua Chen</title>
+    <title>Homepage</title>
     <link>https://khchen-hp.github.io/</link>
-    <description>Recent content on Kehua Chen</description>
+    <description>Recent content on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://khchen-hp.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -38,6 +38,15 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
       
       <guid>https://khchen-hp.github.io/posts/hugo-coder-wiki/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Dummy</title>
+      <link>https://khchen-hp.github.io/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
     </item>
     
     <item>
@@ -122,6 +131,15 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
+      <title>Contato</title>
+      <link>https://khchen-hp.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
       <title>First snippet</title>
       <link>https://khchen-hp.github.io/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -141,6 +159,15 @@ pwd </description>
     </item>
     
     <item>
+      <title>Projetos</title>
+      <link>https://khchen-hp.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/projects/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+    <item>
       <title>Second snippet</title>
       <link>https://khchen-hp.github.io/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,6 +175,15 @@ pwd </description>
       <guid>https://khchen-hp.github.io/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
+    </item>
+    
+    <item>
+      <title>Sobre Hugo</title>
+      <link>https://khchen-hp.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/about/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
   </channel>
