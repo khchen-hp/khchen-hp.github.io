@@ -1,5 +1,5 @@
 baseURL = "https://khchen-hp.github.io/"
-title = "Kehua Chen"
+title = "Homepage"
 
 theme = "coder"
 
@@ -15,10 +15,10 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    author = "Kehua Chen"
+    description = "Kehua's personal website"
+    keywords = "homepage,developer,personal"
+    info = "Wanna Be A Better Man"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footerContent = "Enter a text here."
@@ -122,34 +122,34 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fa fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fa fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://github.com/ckjzsa/"
+#[[params.social]]
+#    name = "Gitlab"
+#    icon = "fa fa-gitlab"
+#    weight = 2
+#    url = "https://gitlab.com/johndoe/"
+#[[params.social]]
+#    name = "Twitter"
+#    icon = "fa fa-twitter"
+#    weight = 3
+#    url = "https://twitter.com/johndoe/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fa fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.linkedin.com/in/%E7%A7%91%E6%A1%A6-%E9%99%88-321140156/"
+#[[params.social]]
+#    name = "Medium"
+#    icon = "fa fa-medium"
+#    weight = 5
+#    url = "https://medium.com/@johndoe"
+#[[params.social]]
+#    name = "RSS"
+#    icon = "fa fa-rss"
+#    weight = 6
+#    url = "https://myhugosite.com/index.xml"
+#    rel = "alternate"
+#    type = "application/rss+xml"
 
 
 [languages]
@@ -179,35 +179,35 @@ disqusShortname = "yourdiscussshortname"
             url = "contact/"
 
 
-    [languages.pt-br]
-        languageName = "Português"
-        title = "João Ninguém"
+    [languages.cn]
+        languageName = "Simplified Chinese"
+        title = "主页"
 
-        [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
+        [languages.cn.params]
+            author = "陈科桦"
+            info = "想守护我爱的人"
+            description = "想守护我爱的人"
             keywords = "blog,desenvolvedor,pessoal"
-            footerContent = "Coloque algum texto aqui."
+            footerContent = "一个小研究生"
 
-        [languages.pt-br.menu]
+        [languages.cn.menu]
 
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
+            [[languages.cn.menu.main]]
+            name = "关于我"
             weight = 1
             url = "about/"
 
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
+            [[languages.cn.menu.main]]
+            name = "学术论文"
             weight = 2
             url = "posts/"
 
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
+            [[languages.cn.menu.main]]
+            name = "项目"
             weight = 3
             url = "projects/"
 
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
+            [[languages.cn.menu.main]]
+            name = "联系我"
             weight = 5
             url = "contact/"
