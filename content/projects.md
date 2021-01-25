@@ -13,7 +13,7 @@ The expanding population and rapid urbanisation, in particular in the Global Sou
 
 Within an eco-industrial park, there are various factories generating wastewater streams with different inflow rates and pollutant concentrations. Thus, the aim of the project was to find the optimal design strategy for wastewater treatment. In detail, the decision variables include location of treatment plants, wastewater treatment methods, and treatment technologies. The problem was formulated as a Mixed Integer Linear Programming program and solved by CPLEX.
 
-![](https://ars.els-cdn.com/content/image/1-s2.0-S1385894719320467-gr3.jpg)
+![layout](../static/layout.jpg)
 
 
 
