@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://khchen-hp.github.io/cn/authors/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,81 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://khchen-hp.github.io/cn/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/cn/authors/kehua-chen/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/authors/kehua-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/authors/kehua-chen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/cn/publications/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/publications/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/cn/publications/hi/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/publications/hi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/publications/hi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/cn/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/cn/publications/hi/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/publications/hi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/publications/hi/"
                 />
   </url>
   
@@ -63,21 +138,6 @@
   </url>
   
   <url>
-    <loc>https://khchen-hp.github.io/cn/publications/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/publications/creating-a-new-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/publications/creating-a-new-theme/"
-                />
-  </url>
-  
-  <url>
     <loc>https://khchen-hp.github.io/cn/series/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -123,21 +183,6 @@
   </url>
   
   <url>
-    <loc>https://khchen-hp.github.io/cn/publications/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/publications/"
-                />
-  </url>
-  
-  <url>
     <loc>https://khchen-hp.github.io/cn/series/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -168,21 +213,6 @@
   </url>
   
   <url>
-    <loc>https://khchen-hp.github.io/cn/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/"
-                />
-  </url>
-  
-  <url>
     <loc>https://khchen-hp.github.io/cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -193,20 +223,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://khchen-hp.github.io/cn/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/cn/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/contact/"
                 />
   </url>
   
@@ -225,6 +241,20 @@
   </url>
   
   <url>
+    <loc>https://khchen-hp.github.io/cn/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://khchen-hp.github.io/cn/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -239,16 +269,16 @@
   </url>
   
   <url>
-    <loc>https://khchen-hp.github.io/cn/tags/</loc>
+    <loc>https://khchen-hp.github.io/cn/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://khchen-hp.github.io/tags/"
+                href="https://khchen-hp.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://khchen-hp.github.io/cn/tags/"
+                href="https://khchen-hp.github.io/cn/contact/"
                 />
   </url>
   

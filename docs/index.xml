@@ -6,7 +6,21 @@
     <description>Recent content on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://khchen-hp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://khchen-hp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The application of footprints for assessing the sustainability of wastewater treatment plants: A review</title>
+      <link>https://khchen-hp.github.io/publications/hi/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/publications/hi/</guid>
+      <description>Basic Info Kehua Chen, Hongcheng Wang, Jinglong Han, Wenzong Liu, Haoyi Cheng, Bin Liang, AijieWang.“The application of footprints for assessing the sustainability of wastewater treatment plants: a review.”Journal of Cleaner Production (2020): 124053. (IF=7.25, JCR Q1, 4/210)
+Link Elsevier
+Highlights   First comprehensive review of footprint evaluations for WWTP.
+  Relationship between footprint and LCA was distinguished.
+  Two purposes of footprint application were clarified.
+  Future applications of footprint analysis in wastewater management were introduced.</description>
+    </item>
+    
     <item>
       <title>Twemoji Support 🤩</title>
       <link>https://khchen-hp.github.io/blogs/twemoji-support/</link>
@@ -30,14 +44,17 @@ Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Em
     </item>
     
     <item>
-      <title>Twemoji Support 🤩</title>
-      <link>https://khchen-hp.github.io/publications/twemoji-support/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <title>Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport</title>
+      <link>https://khchen-hp.github.io/publications/hi/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://khchen-hp.github.io/publications/twemoji-support/</guid>
-      <description>If you want to use Twitter&amp;rsquo;s Twemoji across your website, enable it in your config.toml
-[params] enableTwemoji = true This will not only give your website unified emojis across all platforms. It will also give you the latest Unicode 13 emoji set, such as 🧋🫕🛻🪗🪞.
-Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩  </description>
+      <guid>https://khchen-hp.github.io/publications/hi/</guid>
+      <description>Basic Info Edward O’Dwyer, Kehua Chen, Hongcheng Wang, Aijie Wang, Nilay Shah, Miao Guo∗. “Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport.”Chemical Engineering Journal 381 (2020): 122643. (IF=10.65, JCR Q1, 2/340)
+Link Elsevier
+Arxiv
+Highlights   Mathematical optimisation of wastewater treatment/recovery in an industrial park.
+  Bridges two-level design challenge on pipeline and resource recovery technologies.
+  Systems approach to transport, topological features and circular economic aspects.</description>
     </item>
     
     <item>
@@ -67,19 +84,6 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
     </item>
     
     <item>
-      <title>Render LaTeX using KaTeX</title>
-      <link>https://khchen-hp.github.io/publications/render-latex-using-katex/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/render-latex-using-katex/</guid>
-      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
-It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
-Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
-    </item>
-    
-    <item>
       <title>Hugo coder wiki</title>
       <link>https://khchen-hp.github.io/blogs/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
@@ -98,15 +102,6 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
     </item>
     
     <item>
-      <title>Hugo coder wiki</title>
-      <link>https://khchen-hp.github.io/publications/hugo-coder-wiki/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/hugo-coder-wiki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dummy</title>
       <link>https://khchen-hp.github.io/blogs/dummy/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
@@ -121,15 +116,6 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://khchen-hp.github.io/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
-    </item>
-    
-    <item>
-      <title>Dummy</title>
-      <link>https://khchen-hp.github.io/publications/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/dummy/</guid>
       <description>Nada para ver aqui!</description>
     </item>
     
@@ -166,22 +152,6 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     </item>
     
     <item>
-      <title>Theme Demo</title>
-      <link>https://khchen-hp.github.io/publications/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
-    </item>
-    
-    <item>
       <title>Creating a New Theme</title>
       <link>https://khchen-hp.github.io/blogs/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -202,16 +172,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://khchen-hp.github.io/publications/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://khchen-hp.github.io/blogs/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -227,16 +187,6 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://khchen-hp.github.io/posts/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://khchen-hp.github.io/publications/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
@@ -270,20 +220,6 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://khchen-hp.github.io/publications/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
       <title>Migrate to Hugo from Jekyll</title>
       <link>https://khchen-hp.github.io/blogs/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
@@ -302,25 +238,17 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://khchen-hp.github.io/publications/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/publications/migrate-from-jekyll/</guid>
-      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
+      <title>About Me</title>
       <link>https://khchen-hp.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khchen-hp.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>Basic Info  Age： 25 Hometown： Zhoushan, Zhejiang Status： Master Candidate Location： Beijing  Education   University of Copenhagen &amp;amp; University of China Academy of Sciences
+Master fo Science in Environmental Science, 2018 - 2021
+Optimization of control strategy in wastewater treatment plants based on deep reinforcement learning
+  Imperial College London &amp;amp; University College London
+Visiting student in Chemical &amp;amp; Civil Engineering, 2017 - 2018
+Environmental modelling and supply chain optimisation</description>
     </item>
     
     <item>
@@ -329,7 +257,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khchen-hp.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
+      <description>Wellcome to follow me on Github, Zhihu or Linkedin. If you have any questions, just feel free to send me an email!  Email: ckjzsa@163.com  </description>
     </item>
     
     <item>
@@ -338,7 +266,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khchen-hp.github.io/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
+      <description>(Finished) Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport Background The expanding population and rapid urbanisation, in particular in the Global South, are leading to global challenges on resource supply stress and rising waste generation. A transformation to resource-circular systems and sustainable recovery of carbon-containing and nutrient-rich waste offers a way to tackle such challenges. Eco-industrial parks have the potential to capture symbioses across individual waste producers, leading to more effective waste-recovery schemes.</description>
     </item>
     
   </channel>

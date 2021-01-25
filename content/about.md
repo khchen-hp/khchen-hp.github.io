@@ -1,29 +1,68 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
+
 +++
 
-Hugo is a static site engine written in Go.
+## Basic Info
 
+- Age： 25
+- Hometown： Zhoushan, Zhejiang
+- Status： Master Candidate
+- Location： Beijing
 
-It makes use of a variety of open source projects including:
+## Education
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+- **University of Copenhagen & University of China Academy of Sciences**
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+  ***Master fo Science in Environmental Science, 2018 - 2021***
 
-## Setup
+  Optimization of control strategy in wastewater treatment plants based on deep reinforcement learning
 
-Some fun facts about [Hugo](http://gohugo.io/):
+- **Imperial College London & University College London**
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+  ***Visiting student in Chemical & Civil Engineering, 2017 - 2018***
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+  Environmental modelling and supply chain optimisation
 
-Thanks for reading!
+- **Chongqing University**
+
+  ***Bachelor in Civil Engineering, 2014 - 2018***
+
+  Municipal engineering (pipeline designing and water treatment technology)
+
+## Experience
+
+- **Optimization of water systems based on multi-agent reinforcement learning**
+
+  ***Research Leader, 2019.9 - present***
+
+  Using Multi-agent Reinforcement Learning (MADDPG) to reduce negative environmental impacts of water systems.
+
+- **Intern in GuanData: Algorithm Engineer**
+
+  ***Hangzhou, 2020.07 - 2020.08***
+
+  Using LGBM to predict sale quantities and replenishment quantities of Walmart..
+
+- **Kaggle Competition： ASHRAE - Great Energy Predictor III**
+
+  ***2019.11 - 2019.12***
+
+  Bronze medal, ranking top 6 %, predicting energy consumption of buildings based on historical data.
+
+- **Optimisation of wastewater treatment strategies in eco-industrial parks**
+
+  ***Research Assistant, 2018.2 - 2019.7***
+
+  Optimise supply chain of wastewater treatment within eco-industrial parks by mix integer linear programming (MILP).
+
+## Honor
+
+- **2020 National Scholarship for Postgraduate Students**
+- **2020 Excellence of student representatives and merit student in UCAS**
+- **2019 Excellence of student representatives and merit student in UCAS**
+- **2017 National Scholarship for Undergraduate Students**
+- **2017 Third prize in the National Energy Conservation & Emission Reduction Competition**
+- **2017 First prize of Challenge Cup Innovation Competition (Chongqing)**
+
