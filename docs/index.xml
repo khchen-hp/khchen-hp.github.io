@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://khchen-hp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The application of footprints for assessing the sustainability of wastewater treatment plants: A review</title>
-      <link>https://khchen-hp.github.io/publications/hi/</link>
+      <link>https://khchen-hp.github.io/publications/jcp/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://khchen-hp.github.io/publications/hi/</guid>
+      <guid>https://khchen-hp.github.io/publications/jcp/</guid>
       <description>Basic Info Kehua Chen, Hongcheng Wang, Jinglong Han, Wenzong Liu, Haoyi Cheng, Bin Liang, AijieWang.“The application of footprints for assessing the sustainability of wastewater treatment plants: a review.”Journal of Cleaner Production (2020): 124053. (IF=7.25, JCR Q1, 4/210)
 Link Elsevier
 Highlights   First comprehensive review of footprint evaluations for WWTP.
@@ -45,10 +45,19 @@ Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Em
     
     <item>
       <title>Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport</title>
-      <link>https://khchen-hp.github.io/publications/hi/</link>
+      <link>https://khchen-hp.github.io/projects/opt-ww-eco/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://khchen-hp.github.io/publications/hi/</guid>
+      <guid>https://khchen-hp.github.io/projects/opt-ww-eco/</guid>
+      <description>Background The expanding population and rapid urbanisation, in particular in the Global South, are leading to global challenges on resource supply stress and rising waste generation. A transformation to resource-circular systems and sustainable recovery of carbon-containing and nutrient-rich waste offers a way to tackle such challenges. Eco-industrial parks have the potential to capture symbioses across individual waste producers, leading to more effective waste-recovery schemes. With whole-system design, economically attractive approaches can be achieved, reducing the environmental impacts while increasing the recovery of high-value resources.</description>
+    </item>
+    
+    <item>
+      <title>Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport</title>
+      <link>https://khchen-hp.github.io/publications/cej/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/publications/cej/</guid>
       <description>Basic Info Edward O’Dwyer, Kehua Chen, Hongcheng Wang, Aijie Wang, Nilay Shah, Miao Guo∗. “Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport.”Chemical Engineering Journal 381 (2020): 122643. (IF=10.65, JCR Q1, 2/340)
 Link Elsevier
 Arxiv
@@ -258,15 +267,6 @@ Environmental modelling and supply chain optimisation</description>
       
       <guid>https://khchen-hp.github.io/contact/</guid>
       <description>Wellcome to follow me on Github, Zhihu or Linkedin. If you have any questions, just feel free to send me an email!  Email: ckjzsa@163.com  </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://khchen-hp.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://khchen-hp.github.io/projects/</guid>
-      <description>(Finished) Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport Background The expanding population and rapid urbanisation, in particular in the Global South, are leading to global challenges on resource supply stress and rising waste generation. A transformation to resource-circular systems and sustainable recovery of carbon-containing and nutrient-rich waste offers a way to tackle such challenges. Eco-industrial parks have the potential to capture symbioses across individual waste producers, leading to more effective waste-recovery schemes.</description>
     </item>
     
   </channel>

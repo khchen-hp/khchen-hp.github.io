@@ -1,7 +1,7 @@
 +++
 date = "2020-12-20"
 title = "The application of footprints for assessing the sustainability of wastewater treatment plants: A review"
-slug = "Hi"
+slug = "jcp"
 tags = []
 categories = []
 series = [""]

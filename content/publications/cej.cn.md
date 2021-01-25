@@ -1,7 +1,7 @@
 +++
 date = "2020-02-01"
 title = "Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport"
-slug = "Hi"
+slug = "cej"
 tags = []
 categories = []
 series = [""]
