@@ -123,11 +123,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-github"
     weight = 1
     url = "https://github.com/ckjzsa/"
-#[[params.social]]
-#    name = "Gitlab"
-#    icon = "fa fa-gitlab"
-#    weight = 2
-#    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "JupyterLab"
+    icon = "fa fa-codepen"
+    weight = 2
+    url = "http://114.55.36.147:8888/lab?"
 #[[params.social]]
 #    name = "Twitter"
 #    icon = "fa fa-twitter"
@@ -140,7 +140,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.linkedin.com/in/%E7%A7%91%E6%A1%A6-%E9%99%88-321140156/"
 [[params.social]]
     name = "Zhihu"
-    icon = "fa fa-medium"
+    icon = "fa fa-book"
     weight = 5
     url = "https://www.zhihu.com/people/chen-zi-hong-27"
 #[[params.social]]
