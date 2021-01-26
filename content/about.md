@@ -4,12 +4,11 @@ slug = "about"
 
 +++
 
-## Basic Info
+Welcome to my homepage. I am currently a Master student in **Sino-Danish College, University of Chinese Academy of Sciences**. As a joint programme, I was awarded **Master of Science in Water and Environment** from **University of Copenhagen** in Dec. 2020. 
 
-- Age： 25
-- Hometown： Zhoushan, Zhejiang
-- Status： Master Candidate
-- Location： Beijing
+I graduated from **Chongqing University** in 2018, and my course was Civil Engineering, mainly about Water Engineering. From 2017-2018, I was a visiting student in **University College London** under the supervision of Prof. Yun Bai. At the same time, I participated in a cooperative project with Dr. Miao Guo from **Imperial College London**. The project was mainly about **Optimisation of Wastewater Treatment Strategies in Eco-Industrial Parks: Technology, location and transport**.
+
+My research project at present is **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**. 
 
 ## Education
 
