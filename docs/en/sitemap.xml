@@ -3,81 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khchen-hp.github.io/authors/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/authors/kehua-chen/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/authors/kehua-chen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/authors/kehua-chen/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/publications/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/publications/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/publications/jcp/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/publications/jcp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/publications/jcp/"
-                />
-  </url>
-  
-  <url>
     <loc>https://khchen-hp.github.io/blogs/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -89,6 +14,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://khchen-hp.github.io/blogs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/"
                 />
   </url>
   
@@ -163,32 +103,47 @@
   </url>
   
   <url>
-    <loc>https://khchen-hp.github.io/projects/opt-ww-eco/</loc>
+    <loc>https://khchen-hp.github.io/authors/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://khchen-hp.github.io/cn/projects/opt-ww-eco/"
+                href="https://khchen-hp.github.io/cn/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://khchen-hp.github.io/projects/opt-ww-eco/"
+                href="https://khchen-hp.github.io/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://khchen-hp.github.io/publications/cej/</loc>
+    <loc>https://khchen-hp.github.io/authors/kehua-chen/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://khchen-hp.github.io/cn/publications/cej/"
+                href="https://khchen-hp.github.io/cn/authors/kehua-chen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://khchen-hp.github.io/publications/cej/"
+                href="https://khchen-hp.github.io/authors/kehua-chen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/projects/cej/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/projects/cej/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/projects/cej/"
                 />
   </url>
   
@@ -448,6 +403,10 @@
                 hreflang="en"
                 href="https://khchen-hp.github.io/contact/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/publications/</loc>
   </url>
   
 </urlset>
