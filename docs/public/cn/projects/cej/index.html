@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="cn">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="cn">
+    
+      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com; prefetch-src 'self';">
+    
+
+    <meta name="author" content="陈科桦">
+    <meta name="description" content="项目亮点   在工业园区中对废水处理/回收进行数学优化。
+  连接管道设计和资源回收技术设计。
+  系统方法优化运输，拓扑特征和循环经济。
+  使用集中和分散技术来处理和回收废水。
+  摘要（机翻） 随着人口的增长和快速的城市化，资源供应压力和污染物产生量不断增加。资源循环系统的转变以及对含碳和营养物污染物的可持续回收提供了解决此类挑战的方法。生态工业园区可以捕获各个污染物产生者之间的共生体，从而导致更有效的污染物回收方案。通过全系统设计，可以实现经济上有吸引力的方法，从而减少环境影响，同时提高高价值资源的回收率。在本文中，我们开发了一个优化框架以实现这种设计，从而允许考虑广泛的处理选项，以捕获技术和经济细节。除了技术选择外，该框架还考虑了空间层面，使用合适的运输网络设计。使用网络对各种情况进行了调查，突出了问题的多面性。在设计阶段需要考虑资源恢复的影响显得尤为重要。
+关键词   污水
+  资源回收经济
+  优化
+  生态工业园区
+  链接 Elsevier
+Arxiv
+引用本论文 @article{o2020optimisation, title={Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport}, author={O’Dwyer, Edward and Chen, Kehua and Wang, Hongcheng and Wang, Aijie and Shah, Nilay and Guo, Miao}, journal={Chemical Engineering Journal}, volume={381}, pages={122643}, year={2020}, publisher={Elsevier} } ">
+    <meta name="keywords" content="blog,desenvolvedor,pessoal">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="生态工业园区废水处理策略的优化：技术，位置和运输"/>
+<meta name="twitter:description" content="项目亮点   在工业园区中对废水处理/回收进行数学优化。
+  连接管道设计和资源回收技术设计。
+  系统方法优化运输，拓扑特征和循环经济。
+  使用集中和分散技术来处理和回收废水。
+  摘要（机翻） 随着人口的增长和快速的城市化，资源供应压力和污染物产生量不断增加。资源循环系统的转变以及对含碳和营养物污染物的可持续回收提供了解决此类挑战的方法。生态工业园区可以捕获各个污染物产生者之间的共生体，从而导致更有效的污染物回收方案。通过全系统设计，可以实现经济上有吸引力的方法，从而减少环境影响，同时提高高价值资源的回收率。在本文中，我们开发了一个优化框架以实现这种设计，从而允许考虑广泛的处理选项，以捕获技术和经济细节。除了技术选择外，该框架还考虑了空间层面，使用合适的运输网络设计。使用网络对各种情况进行了调查，突出了问题的多面性。在设计阶段需要考虑资源恢复的影响显得尤为重要。
+关键词   污水
+  资源回收经济
+  优化
+  生态工业园区
+  链接 Elsevier
+Arxiv
+引用本论文 @article{o2020optimisation, title={Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport}, author={O’Dwyer, Edward and Chen, Kehua and Wang, Hongcheng and Wang, Aijie and Shah, Nilay and Guo, Miao}, journal={Chemical Engineering Journal}, volume={381}, pages={122643}, year={2020}, publisher={Elsevier} } "/>
+
+    <meta property="og:title" content="生态工业园区废水处理策略的优化：技术，位置和运输" />
+<meta property="og:description" content="项目亮点   在工业园区中对废水处理/回收进行数学优化。
+  连接管道设计和资源回收技术设计。
+  系统方法优化运输，拓扑特征和循环经济。
+  使用集中和分散技术来处理和回收废水。
+  摘要（机翻） 随着人口的增长和快速的城市化，资源供应压力和污染物产生量不断增加。资源循环系统的转变以及对含碳和营养物污染物的可持续回收提供了解决此类挑战的方法。生态工业园区可以捕获各个污染物产生者之间的共生体，从而导致更有效的污染物回收方案。通过全系统设计，可以实现经济上有吸引力的方法，从而减少环境影响，同时提高高价值资源的回收率。在本文中，我们开发了一个优化框架以实现这种设计，从而允许考虑广泛的处理选项，以捕获技术和经济细节。除了技术选择外，该框架还考虑了空间层面，使用合适的运输网络设计。使用网络对各种情况进行了调查，突出了问题的多面性。在设计阶段需要考虑资源恢复的影响显得尤为重要。
+关键词   污水
+  资源回收经济
+  优化
+  生态工业园区
+  链接 Elsevier
+Arxiv
+引用本论文 @article{o2020optimisation, title={Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport}, author={O’Dwyer, Edward and Chen, Kehua and Wang, Hongcheng and Wang, Aijie and Shah, Nilay and Guo, Miao}, journal={Chemical Engineering Journal}, volume={381}, pages={122643}, year={2020}, publisher={Elsevier} } " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://khchen-hp.github.io/cn/projects/cej/" />
+<meta property="article:published_time" content="2020-02-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-02-01T00:00:00+00:00" /><meta property="og:site_name" content="主页" />
+
+
+
+    <title>
+  生态工业园区废水处理策略的优化：技术，位置和运输 · 主页
+</title>
+
+    
+      <link rel="canonical" href="https://khchen-hp.github.io/cn/projects/cej/">
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.1.7" as="font" type="font/woff2" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.6d489c9de70b01718344ed2ac642db21c4bb3c62941cb95963c2b67c66c07fdc.css" integrity="sha256-bUicnecLAXGDRO0qxkLbIcS7PGKUHLlZY8K2fGbAf9w=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.126ad3988d46bdae6217a11105b53c9662bca05f39d42d3c0fb366919d334620.css" integrity="sha256-EmrTmI1Gva5iF6ERBbU8lmK8oF851C08D7NmkZ0zRiA=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+      <script defer src="https://twemoji.maxcdn.com/v/13.0.1/twemoji.min.js"
+        integrity="sha384-5f4X0lBluNY/Ib4VhGx0Pf6iDCF99VGXJIyYy7dDLY5QlEd7Ap0hICSSZA1XYbc4" crossorigin="anonymous"></script>
+    
+
+    <meta name="generator" content="Hugo 0.80.0" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-auto"
+        onload=" twemoji.parse(document.body); "
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/cn">
+      主页
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/cn/about/">关于我</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/cn/blogs/">博客</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/cn/publications/">学术成果</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/cn/projects/">项目</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/cn/contact/">联系我</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="https://khchen-hp.github.io/projects/cej/">English</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>生态工业园区废水处理策略的优化：技术，位置和运输</h1>
+    </header>
+
+    <h2 id="项目亮点">项目亮点</h2>
+<ul>
+<li>
+<p>在工业园区中对废水处理/回收进行数学优化。</p>
+</li>
+<li>
+<p>连接管道设计和资源回收技术设计。</p>
+</li>
+<li>
+<p>系统方法优化运输，拓扑特征和循环经济。</p>
+</li>
+<li>
+<p>使用集中和分散技术来处理和回收废水。</p>
+</li>
+</ul>
+<h2 id="摘要机翻">摘要（机翻）</h2>
+<p>随着人口的增长和快速的城市化，资源供应压力和污染物产生量不断增加。资源循环系统的转变以及对含碳和营养物污染物的可持续回收提供了解决此类挑战的方法。生态工业园区可以捕获各个污染物产生者之间的共生体，从而导致更有效的污染物回收方案。通过全系统设计，可以实现经济上有吸引力的方法，从而减少环境影响，同时提高高价值资源的回收率。在本文中，我们开发了一个优化框架以实现这种设计，从而允许考虑广泛的处理选项，以捕获技术和经济细节。除了技术选择外，该框架还考虑了空间层面，使用合适的运输网络设计。使用网络对各种情况进行了调查，突出了问题的多面性。在设计阶段需要考虑资源恢复的影响显得尤为重要。</p>
+<h2 id="关键词">关键词</h2>
+<ul>
+<li>
+<p>污水</p>
+</li>
+<li>
+<p>资源回收经济</p>
+</li>
+<li>
+<p>优化</p>
+</li>
+<li>
+<p>生态工业园区</p>
+</li>
+</ul>
+<h2 id="链接">链接</h2>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1385894719320467?via%3Dihub">Elsevier</a></p>
+<p><a href="https://arxiv.org/abs/2005.09987">Arxiv</a></p>
+<h2 id="引用本论文">引用本论文</h2>
+<pre><code>@article{o2020optimisation,
+  title={Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport},
+  author={O’Dwyer, Edward and Chen, Kehua and Wang, Hongcheng and Wang, Aijie and Shah, Nilay and Guo, Miao},
+  journal={Chemical Engineering Journal},
+  volume={381},
+  pages={122643},
+  year={2020},
+  publisher={Elsevier}
+}</code></pre>
+
+  </article>
+</section>
+
+  
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>一个小研究生</p>
+      
+      
+        ©
+        
+          2019 -
+        
+        2021
+         陈科桦 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+        
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+        
+        <script src="/js/dark-mode.min.0213e1773e6d1c5a644f847c67a6f8abac49a3776e2976f6008038af8c5b76a1.js"></script>
+      
+    
+
+    
+
+    
+
+    <script>
+(function(f, a, t, h, o, m){
+	a[h]=a[h]||function(){
+		(a[h].q=a[h].q||[]).push(arguments)
+	};
+	o=f.createElement('script'),
+	m=f.getElementsByTagName('script')[0];
+	o.async=1; o.src=t; o.id='fathom-script';
+	m.parentNode.insertBefore(o,m)
+})(document, window, '//analytics.example.com/tracker.js', 'fathom');
+fathom('set', 'siteId', 'ABCDE');
+fathom('trackPageview');
+</script>
+
+
+    <script async defer data-domain="example.com" src="https://analytics.example.com/js/plausible.js"></script>
+
+
+    <script data-goatcounter="https://code.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+
+    
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+        data-cf-beacon='{"token": "token"}'></script>
+
+
+
+    <script type="application/javascript">
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.example.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', 'ABCDE']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+  </body>
+
+</html>
