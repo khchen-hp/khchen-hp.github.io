@@ -1,6 +1,6 @@
 +++
 date = "2020-02-01"
-title = "Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport"
+title = "生态工业园区废水处理策略的优化：技术，位置和运输"
 slug = "cej"
 tags = []
 categories = []
