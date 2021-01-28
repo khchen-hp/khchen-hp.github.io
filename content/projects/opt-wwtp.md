@@ -25,7 +25,7 @@ authors = ["Kehua Chen"]
 
 The expanding population and rapid urbanisation, in particular in the Global South, are leading to global challenges on resource supply stress and rising waste generation. A transformation to resource-circular systems and sustainable recovery of carbon-containing and nutrient-rich waste offers a way to tackle such challenges. Eco-industrial parks have the potential to capture symbioses across individual waste producers, leading to more effective waste-recovery schemes. With whole-system design, economically attractive approaches can be achieved, reducing the environmental impacts while increasing the recovery of high-value resources. In this paper, an optimisation framework is developed to enable such design, allowing for wide ranging treatment options to be considered capturing both technological and financial detail. As well as technology selection, the framework also accounts for spatial aspects, with the design of suitable transport networks playing a key role. A range of scenarios are investigated using the network, highlighting the multi-faceted nature of the problem. The need to incorporate the impact of resource recovery at the design stage is shown to be of particular importance.
 
-![layout](/images/layout.jpg)
+![layout](../../images/layout.jpg)
 
 ## Keywords
 
