@@ -78,96 +78,6 @@
   </url>
   
   <url>
-    <loc>https://khchen-hp.github.io/cn/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/posts/creating-a-new-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/posts/creating-a-new-theme/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/cn/series/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/series/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/series/hugo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/cn/authors/john-doe/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/authors/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/authors/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/cn/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/cn/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://khchen-hp.github.io/cn/series/theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://khchen-hp.github.io/series/theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://khchen-hp.github.io/cn/series/theme/"
-                />
-  </url>
-  
-  <url>
     <loc>https://khchen-hp.github.io/cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -178,6 +88,20 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://khchen-hp.github.io/cn/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://khchen-hp.github.io/cn/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://khchen-hp.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://khchen-hp.github.io/cn/series/"
                 />
   </url>
   
