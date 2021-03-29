@@ -4,13 +4,19 @@ slug = "about"
 
 +++
 
-Welcome to my homepage. I am currently a Master student in **Sino-Danish College, University of Chinese Academy of Sciences**. As a joint programme, I was awarded **Master of Science in Water and Environment** from **University of Copenhagen** in Dec. 2020. 
+Welcome to my homepage. I am currently a Master student in **Sino-Danish College, University of Chinese Academy of Sciences**. As a joint programme, I was awarded **Master of Science in Water and Environment** from **University of Copenhagen** in Dec. 2020. My supervisors are Prof. Aijie Wang (from HIT & CAS) and Associate Prof. Luca Vezzaro (from DTU).
 
 I graduated from **Chongqing University** in 2018, and my course was Civil Engineering, mainly about Water Engineering. From 2017-2018, I was a visiting student in **University College London** under the supervision of Prof. Yun Bai. At the same time, I participated in a cooperative project with Dr. Miao Guo from **Imperial College London**. The project was mainly about **Optimisation of Wastewater Treatment Strategies in Eco-Industrial Parks: Technology, location and transport**.
 
 My research project at present is **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**. 
 
+I am going to be a PhD candidate in August 2021at **the Hong Kong Uiversity of Science and Technology**. My research field will change to **Intelligent Transportation** under the supervision of Prof. Hai Yang.
+
 ## Education
+
+- **the Hong Kong Uiversity of Science and Technology**
+
+  ***Phd in Intelligent Transportation, 2021 - 2025***
 
 - **University of Copenhagen & University of China Academy of Sciences**
 

@@ -21,8 +21,8 @@ disqusShortname = "yourdiscussshortname"
     info = "Wanna Be A Better Man"
     avatarURL = "images/avatar1.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "A graduate student"
-
+    footerContent = "A PhD Candidate"
+   
     dateFormat = "January 2, 2006"
 
     hideFooter = false
@@ -34,6 +34,8 @@ disqusShortname = "yourdiscussshortname"
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
+    katex = true
+    #math = true    
 
     # Specify light/dark colorscheme
     # Supported values:
@@ -163,10 +165,10 @@ disqusShortname = "yourdiscussshortname"
             weight = 1
             url = "about/"
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "blogs/"
+            #[[languages.en.menu.main]]
+            #name = "Blog"
+            #weight = 2
+            #url = "posts/"
 
 	    [[languages.en.menu.main]]
             name = "Publications"
@@ -202,10 +204,10 @@ disqusShortname = "yourdiscussshortname"
             weight = 1
             url = "about/"
 
-	    [[languages.cn.menu.main]]
-            name = "博客"
-            weight = 2
-            url = "blogs/"
+	    #[[languages.cn.menu.main]]
+            #name = "博客"
+            #weight = 2
+            #url = "posts/"
 
             [[languages.cn.menu.main]]
             name = "学术成果"
