@@ -4,25 +4,23 @@ slug = "about"
 
 +++
 
-Welcome to my homepage. I am currently a Master student in **Sino-Danish College, University of Chinese Academy of Sciences**. As a joint programme, I was awarded **Master of Science in Water and Environment** from **University of Copenhagen** in Dec. 2020. My supervisors are Prof. Aijie Wang (from HIT & CAS) and Associate Prof. Luca Vezzaro (from DTU).
+Welcome to my homepage. I am currently a PhD student in **Intelligent Transportation & Computer Science** at the Hong Kong University of Science and Technology, and my supervisor is [Prof. Hai Yang](https://cehyang.people.ust.hk/). 
 
-I graduated from **Chongqing University** in 2018, and my course was Civil Engineering, mainly about Water Engineering. From 2017-2018, I was a visiting student in **University College London** under the supervision of Prof. Yun Bai. At the same time, I participated in a cooperative project with Dr. Miao Guo from **Imperial College London**. The project was mainly about **Optimisation of Wastewater Treatment Strategies in Eco-Industrial Parks: Technology, location and transport**.
+I finished my Master study at **Sino-Danish College, University of Chinese Academy of Sciences (SDC-UCAS)** in June 2021. As a joint programme, I was also awarded **Master of Science in Water and Environment** from **University of Copenhagen** in Dec. 2020. My supervisors are [Prof. Aijie Wang](http://homepage.hit.edu.cn/wangaijie) (from HIT & CAS) and [Associate Prof. Luca Vezzaro](https://orbit.dtu.dk/en/persons/luca-vezzaro) (from DTU). My research project was **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**. 
 
-My research project at present is **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**. 
-
-I am going to be a PhD candidate in August 2021at **the Hong Kong Uiversity of Science and Technology**. My research field will change to **Intelligent Transportation** under the supervision of Prof. Hai Yang.
+I graduated from **Chongqing University** in 2018 with Bachelor in Engineering, and my course was Civil Engineering, mainly about Municipal Engineering. From 2017-2018, I was a visiting student at **University College London** under the supervision of [Prof. Yun Bai](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-yun-bai). At the same time, I participated in a cooperative project with [Dr. Miao Guo](https://www.imperial.ac.uk/people/miao.guo) from **Imperial College London**. The project was mainly about **Optimisation of Wastewater Treatment Strategies in Eco-Industrial Parks: Technology, location and transport**.
 
 ## Education
 
-- **the Hong Kong Uiversity of Science and Technology**
+- **the Hong Kong University of Science and Technology**
 
-  ***Phd in Intelligent Transportation, 2021 - 2025***
+  ***Phd in Intelligent Transportation & Computer Science, 2021 - 2025***
 
-- **University of Copenhagen & University of China Academy of Sciences**
+- **University of Copenhagen & University of Chinese Academy of Sciences**
 
   ***Master fo Science in Environmental Science, 2018 - 2021***
 
-  Optimization of control strategy in wastewater treatment plants based on deep reinforcement learning
+  Optimal control of wastewater treatment plants towards sustainability based on multi-agent reinforcement learning
 
 - **Imperial College London & University College London**
 
@@ -38,13 +36,13 @@ I am going to be a PhD candidate in August 2021at **the Hong Kong Uiversity of S
 
 ## Experience
 
-- **Optimization of water systems based on multi-agent reinforcement learning**
+- **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**
 
-  ***Research Leader, 2019.9 - present***
+  ***Research Leader, 2019.09 - 2021.06***
 
   Using Multi-agent Reinforcement Learning (MADDPG) to reduce negative environmental impacts of water systems.
 
-- **Intern in GuanData: Algorithm Engineer**
+- **Summer Intern in GuanData: Algorithm Engineer**
 
   ***Hangzhou, 2020.07 - 2020.08***
 
@@ -62,7 +60,7 @@ I am going to be a PhD candidate in August 2021at **the Hong Kong Uiversity of S
 
   Optimise supply chain of wastewater treatment within eco-industrial parks by mix integer linear programming (MILP).
 
-## Honor
+## Selected Honor & Prize
 
 - **2020 National Scholarship for Postgraduate Students**
 - **2020 Excellence of student representatives and merit student in UCAS**

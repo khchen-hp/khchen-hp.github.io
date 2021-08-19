@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>主页</title>
+    <title>Cns on Homepage</title>
     <link>https://khchen-hp.github.io/cn/</link>
-    <description>Recent content on 主页</description>
+    <description>Recent content in Cns on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://khchen-hp.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生态工业园区污水处理策略的优化：技术，位置和运输</title>
-      <link>https://khchen-hp.github.io/cn/projects/cej/</link>
+      <link>https://khchen-hp.github.io/cn/cej/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://khchen-hp.github.io/cn/projects/cej/</guid>
+      <guid>https://khchen-hp.github.io/cn/cej/</guid>
       <description>项目亮点   在工业园区中对废水处理/回收进行数学优化。
   连接管道设计和资源回收技术设计。
   系统方法优化运输，拓扑特征和循环经济。

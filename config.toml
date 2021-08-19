@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Wanna Be A Better Man"
     avatarURL = "images/avatar1.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "A PhD Candidate"
+    footerContent = "A PhD Student"
    
     dateFormat = "January 2, 2006"
 
@@ -186,40 +186,40 @@ disqusShortname = "yourdiscussshortname"
             url = "contact/"
 
 
-    [languages.cn]
-        languageName = "Simplified Chinese"
-        title = "主页"
-
-        [languages.cn.params]
-            author = "陈科桦"
-            info = "Wanna Be A Better Man"
-            description = "Wanna Be A Better Man"
-            keywords = "blog,desenvolvedor,pessoal"
-            footerContent = "一个小研究生"
-
-        [languages.cn.menu]
-
-            [[languages.cn.menu.main]]
-            name = "关于我"
-            weight = 1
-            url = "about/"
-
-	    #[[languages.cn.menu.main]]
-            #name = "博客"
-            #weight = 2
-            #url = "posts/"
-
-            [[languages.cn.menu.main]]
-            name = "学术成果"
-            weight = 3
-            url = "publications/"
-
-            [[languages.cn.menu.main]]
-            name = "项目"
-            weight = 4
-            url = "projects/"
-
-            [[languages.cn.menu.main]]
-            name = "联系我"
-            weight = 5
-            url = "contact/"
+#    [languages.cn]
+#        languageName = "Simplified Chinese"
+#        title = "主页"
+#
+#        [languages.cn.params]
+#            author = "陈科桦"
+#            info = "Wanna Be A Better Man"
+#            description = "Wanna Be A Better Man"
+#            keywords = "blog,desenvolvedor,pessoal"
+#            footerContent = "一个小研究生"
+#
+#        [languages.cn.menu]
+#
+#            [[languages.cn.menu.main]]
+#            name = "关于我"
+#            weight = 1
+#            url = "about/"
+#
+#	    #[[languages.cn.menu.main]]
+#            #name = "博客"
+#            #weight = 2
+#            #url = "posts/"
+#
+#            [[languages.cn.menu.main]]
+#            name = "学术成果"
+#            weight = 3
+#            url = "publications/"
+#
+#            [[languages.cn.menu.main]]
+#            name = "项目"
+#            weight = 4
+#            url = "projects/"
+#
+#            [[languages.cn.menu.main]]
+#            name = "联系我"
+#            weight = 5
+#            url = "contact/"
