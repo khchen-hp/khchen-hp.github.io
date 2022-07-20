@@ -126,10 +126,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url = "https://github.com/ckjzsa/"
 [[params.social]]
-    name = "JupyterLab"
-    icon = "fa fa-codepen"
+    name = "Google Scholar"
+    icon = "fa fa-google"
     weight = 2
-    url = "http://114.55.36.147:8888/lab?"
+    url = "https://scholar.google.com/citations?user=0lAV-pkAAAAJ&hl=en"
 #[[params.social]]
 #    name = "Twitter"
 #    icon = "fa fa-twitter"

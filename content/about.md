@@ -4,7 +4,7 @@ slug = "about"
 
 +++
 
-Welcome to my homepage. I am currently a PhD student in **Intelligent Transportation & Computer Science** at the Hong Kong University of Science and Technology, and my supervisors are [Prof. Hai Yang](https://cehyang.people.ust.hk/) and [Dr. Hao Liu](https://raymondhliu.github.io/). 
+Welcome to my homepage. I am currently a PhD student in **IIP (Intelligent Transportation)** at the Hong Kong University of Science and Technology, and my supervisor is [Prof. Hai Yang](https://cehyang.people.ust.hk/). 
 
 I finished my Master study at **Sino-Danish College, University of Chinese Academy of Sciences (SDC-UCAS)** in June 2021. As a joint programme, I was also awarded **Master of Science in Water and Environment** from **University of Copenhagen** in Dec. 2020. My supervisors are [Prof. Aijie Wang](http://homepage.hit.edu.cn/wangaijie) (from HIT & CAS) and [Associate Prof. Luca Vezzaro](https://orbit.dtu.dk/en/persons/luca-vezzaro) (from DTU). My research project was **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**. 
 
@@ -14,7 +14,7 @@ I graduated from **Chongqing University** in 2018 with Bachelor in Engineering, 
 
 - **The Hong Kong University of Science and Technology**
 
-  ***Phd in Intelligent Transportation, 2021 - 2025***
+  ***Phd in IIP (Intelligent Transportation), 2021 - 2024 (Expected)***
 
 - **University of Copenhagen & University of Chinese Academy of Sciences**
 
