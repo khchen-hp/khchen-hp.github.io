@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Homepage</title>
+    <link>https://khchen-hp.github.io/projects/</link>
+    <description>Recent content in Projects on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://khchen-hp.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimal control towards sustainable wastewater treatment plants based on multi-agent reinforcement learning</title>
+      <link>https://khchen-hp.github.io/projects/chem/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/projects/chem/</guid>
+      <description>Highlights  Multi-agent reinforcement learning was firstly applied for parameters optimization. Reward function was designed from LCA for sustainable optimization. Optimization under various discharge standards and emphasis was compared. LCA-driven strategy showed superiority on elimination of environmental impacts. MADDPG holds great potential and advantages to guide the operation of WWTP.  Abstract Wastewater treatment plants (WWTPs) are designed to eliminate pollutants and alleviate environmental pollution resulting from human activities. However, the construction and operation of WWTPs consume resources, emit greenhouse gases (GHGs) and produce residual sludge, thus require further optimization.</description>
+    </item>
+    
+    <item>
+      <title>Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport</title>
+      <link>https://khchen-hp.github.io/projects/che/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/projects/che/</guid>
+      <description>Highlights   Mathematical optimisation of wastewater treatment/recovery in an industrial park.
+  Bridges two-level design challenge on pipeline and resource recovery technologies.
+  Systems approach to transport, topological features and circular economic aspects.
+  Centralised and decentralised technology to treat and recover wastewater.
+  Abstract The expanding population and rapid urbanisation, in particular in the Global South, are leading to global challenges on resource supply stress and rising waste generation.</description>
+    </item>
+    
+  </channel>
+</rss>

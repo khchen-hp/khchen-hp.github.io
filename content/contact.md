@@ -5,5 +5,5 @@ slug = "contact"
 
 
 
-- Email: kehua.chen@connect.ust.hk
+- Email: kehua.chen AT connect.ust.hk
 

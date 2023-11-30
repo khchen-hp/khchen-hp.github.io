@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kehua Chen on Homepage</title>
+    <link>https://khchen-hp.github.io/authors/kehua-chen/</link>
+    <description>Recent content in Kehua Chen on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://khchen-hp.github.io/authors/kehua-chen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimal control towards sustainable wastewater treatment plants based on multi-agent reinforcement learning</title>
+      <link>https://khchen-hp.github.io/projects/chem/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/projects/chem/</guid>
+      <description>Highlights  Multi-agent reinforcement learning was firstly applied for parameters optimization. Reward function was designed from LCA for sustainable optimization. Optimization under various discharge standards and emphasis was compared. LCA-driven strategy showed superiority on elimination of environmental impacts. MADDPG holds great potential and advantages to guide the operation of WWTP.  Abstract Wastewater treatment plants (WWTPs) are designed to eliminate pollutants and alleviate environmental pollution resulting from human activities. However, the construction and operation of WWTPs consume resources, emit greenhouse gases (GHGs) and produce residual sludge, thus require further optimization.</description>
+    </item>
+    
+    <item>
+      <title>Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport</title>
+      <link>https://khchen-hp.github.io/projects/che/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/projects/che/</guid>
+      <description>Highlights   Mathematical optimisation of wastewater treatment/recovery in an industrial park.
+  Bridges two-level design challenge on pipeline and resource recovery technologies.
+  Systems approach to transport, topological features and circular economic aspects.
+  Centralised and decentralised technology to treat and recover wastewater.
+  Abstract The expanding population and rapid urbanisation, in particular in the Global South, are leading to global challenges on resource supply stress and rising waste generation.</description>
+    </item>
+    
+    <item>
+      <title>生态工业园区污水处理策略的优化：技术，位置和运输</title>
+      <link>https://khchen-hp.github.io/cn/cej/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khchen-hp.github.io/cn/cej/</guid>
+      <description>项目亮点   在工业园区中对废水处理/回收进行数学优化。
+  连接管道设计和资源回收技术设计。
+  系统方法优化运输，拓扑特征和循环经济。
+  使用集中和分散技术来处理和回收废水。
+  摘要（机翻） 随着人口的增长和快速的城市化，资源供应压力和污染物产生量不断增加。资源循环系统的转变以及对含碳和营养物污染物的可持续回收提供了解决此类挑战的方法。生态工业园区可以捕获各个污染物产生者之间的共生体，从而导致更有效的污染物回收方案。通过全系统设计，可以实现经济上有吸引力的方法，从而减少环境影响，同时提高高价值资源的回收率。在本文中，我们开发了一个优化框架以实现这种设计，从而允许考虑广泛的处理选项，以捕获技术和经济细节。除了技术选择外，该框架还考虑了空间层面，使用合适的运输网络设计。使用网络对各种情况进行了调查，突出了问题的多面性。在设计阶段需要考虑资源恢复的影响显得尤为重要。
+关键词   污水
+  资源回收经济
+  优化
+  生态工业园区
+  链接 Elsevier
+Arxiv
+引用本论文 @article{o2020optimisation, title={Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport}, author={O’Dwyer, Edward and Chen, Kehua and Wang, Hongcheng and Wang, Aijie and Shah, Nilay and Guo, Miao}, journal={Chemical Engineering Journal}, volume={381}, pages={122643}, year={2020}, publisher={Elsevier} } </description>
+    </item>
+    
+  </channel>
+</rss>

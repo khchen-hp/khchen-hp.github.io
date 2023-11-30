@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Wanna Be A Better Man"
     avatarURL = "images/avatar1.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "A PhD Student"
+    footerContent = "A PhD Candidate"
    
     dateFormat = "January 2, 2006"
 
@@ -124,7 +124,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/ckjzsa/"
+    url = "https://github.com/zeonchen/"
 [[params.social]]
     name = "Google Scholar"
     icon = "fa fa-google"
@@ -139,7 +139,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/%E7%A7%91%E6%A1%A6-%E9%99%88-321140156/"
+    url = "https://www.linkedin.com/in/kh-chen/"
 [[params.social]]
     name = "Zhihu"
     icon = "fa fa-book"
@@ -175,14 +175,14 @@ disqusShortname = "yourdiscussshortname"
             weight = 3
             url = "publications/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 4
-            url = "projects/"
+           #[[languages.en.menu.main]]
+           #name = "Projects"
+           #weight = 4
+           #url = "projects/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 5
+            weight = 4
             url = "contact/"
 
 

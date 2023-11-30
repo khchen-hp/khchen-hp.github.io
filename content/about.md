@@ -4,7 +4,7 @@ slug = "about"
 
 +++
 
-Welcome to my homepage. I am currently a PhD student in **IIP (Intelligent Transportation)** at the Hong Kong University of Science and Technology, and my supervisor is [Prof. Hai Yang](https://cehyang.people.ust.hk/). 
+Welcome to my homepage. I am currently a PhD candidate in **IIP (Intelligent Transportation)** at the Hong Kong University of Science and Technology, and my supervisor is [Prof. Hai Yang](https://cehyang.people.ust.hk/). 
 
 I finished my Master study at **Sino-Danish College, University of Chinese Academy of Sciences (SDC-UCAS)** in June 2021. As a joint programme, I was also awarded **Master of Science in Water and Environment** from **University of Copenhagen** in Dec. 2020. My supervisors are [Prof. Aijie Wang](http://homepage.hit.edu.cn/wangaijie) (from HIT & CAS) and [Associate Prof. Luca Vezzaro](https://orbit.dtu.dk/en/persons/luca-vezzaro) (from DTU). My research project was **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**. 
 
@@ -22,37 +22,25 @@ I graduated from **Chongqing University** in 2018 with Bachelor in Engineering, 
 
   Optimal control of wastewater treatment plants towards sustainability based on multi-agent reinforcement learning
 
-- **Imperial College London & University College London**
-
-  ***Visiting student in Chemical & Civil Engineering, 2017 - 2018***
-
-  Environmental modelling and supply chain optimisation
-
 - **Chongqing University**
 
   ***Bachelor in Civil Engineering, 2014 - 2018***
 
   Municipal engineering (pipeline designing and water treatment technology)
 
-## Experience
+## Visiting Experience
 
-- **Optimal Control of Wastewater Treatment Plants towards Sustainability Based on Multi-Agent Reinforcement Learning**
+- **Imperial College London & University College London**
 
-  ***Research Leader, 2019.09 - 2021.06***
+  ***Visiting student in Chemical & Civil Engineering, 2017.12 - 2018.05***
 
-  Using Multi-agent Reinforcement Learning (MADDPG) to reduce negative environmental impacts of water systems.
+- **The University of British Columbia (UBC)**
 
-- **Summer Intern in GuanData: Algorithm Engineer**
+  ***Visiting student in Civil & Environmental Engineering, 2018.06-2018.08***
 
-  ***Hangzhou, 2020.07 - 2020.08***
+- **McGill University**
 
-  Using LGBM to predict sale quantities and replenishment quantities of Walmart..
-
-- **Optimisation of wastewater treatment strategies in eco-industrial parks**
-
-  ***Research Assistant, 2018.2 - 2019.7***
-
-  Optimise supply chain of wastewater treatment within eco-industrial parks by mix integer linear programming (MILP).
+  ***Visiting student in Civil & Environmental Engineering, 2023.10 - 2024.02***
 
 ## Selected Honor & Prize
 
